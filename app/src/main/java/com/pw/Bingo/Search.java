@@ -18,6 +18,7 @@ import com.firebase.client.ValueEventListener;
 public class Search extends ActionBarActivity {
 
     TextView label;
+    TextView aalabel;
     Firebase myFirebaseRef;
     Button button;
     TextView textView1;
